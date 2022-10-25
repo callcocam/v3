@@ -1,0 +1,3 @@
+
+
+export { tomSelect } from "./tomselectDemo";
